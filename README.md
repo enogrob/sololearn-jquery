@@ -16,7 +16,7 @@ Learn everything you need to about the subject of this `Sololearn` project.
 ## Topics
 ```
 [x] Overview
-[ ] Attributes and content
+[x] Attributes and content
 [ ] Manipulating CSS
 [ ] Manipulating DOM
 [ ] Events
