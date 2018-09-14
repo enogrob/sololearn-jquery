@@ -19,6 +19,6 @@ Learn everything you need to about the subject of this `Sololearn` project.
 [x] Attributes and content
 [x] Manipulating CSS
 [x] Manipulating DOM
-[ ] Events
+[~] Events
 [ ] Effects
 ```
