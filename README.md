@@ -20,5 +20,5 @@ Learn everything you need to about the subject of this `Sololearn` project.
 [x] Manipulating CSS
 [x] Manipulating DOM
 [x] Events
-[ ] Effects
+[~] Effects
 ```
