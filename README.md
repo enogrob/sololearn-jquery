@@ -20,5 +20,9 @@ Learn everything you need to about the subject of this `Sololearn` project.
 [x] Manipulating CSS
 [x] Manipulating DOM
 [x] Events
-[~] Effects
+Effects
+[x] Hide/Show, Fade, Slide
+[x] animate()
+[ ] Creating a Drop-Down Menu
+[ ] Module 6 Quiz
 ```
